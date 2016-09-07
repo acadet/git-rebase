@@ -1,6 +1,7 @@
 # git-rebase by Adrien
 
-Blah blah
+Blah
 
 Modified by Alex
 
+My name is Aaron and I'm changing the readme
